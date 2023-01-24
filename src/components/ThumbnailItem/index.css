@@ -1,0 +1,10 @@
+/* Write your code here. */
+.image {
+  width: 90%;
+  height: 70%;
+}
+
+button {
+  border-radius: 10px;
+  border-width: 0px;
+}
